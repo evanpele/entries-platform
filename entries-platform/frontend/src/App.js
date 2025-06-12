@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/entries";
+const API_URL = "https://entries-platform-1.onrender.com";
 
 export default function App() {
   const [entries, setEntries] = useState([]);
