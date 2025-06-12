@@ -1,0 +1,9 @@
+# Δημιουργία του root φακέλου
+mkdir entries-platform
+cd entries-platform
+
+# Δημιουργία backend φακέλου
+mkdir backend
+
+# Δημιουργία frontend φακέλου
+mkdir frontend
